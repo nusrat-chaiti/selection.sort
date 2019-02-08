@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\selection_sort\selection_sort\bin\Debug\selection_sort.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\selection_sort\selection_sort\bin\Debug\selection_sort.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\selection_sort\selection_sort\bin\Debug\selection_sort.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\selection_sort\selection_sort\obj\Debug\selection_sort.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\selection_sort\selection_sort\obj\Debug\selection_sort.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\selection_sort\selection_sort\obj\Debug\selection_sort.pdb
